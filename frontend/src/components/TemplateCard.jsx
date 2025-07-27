@@ -1,3 +1,5 @@
+import React from "react";
+
 const TemplateCard = ({ template, onSelect }) => {
     return (
       <div
