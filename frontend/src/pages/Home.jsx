@@ -208,7 +208,7 @@ const Home = () => {
           <Button
             size="lg"
             onClick={() => document.getElementById('templates').scrollIntoView({ behavior: 'smooth' })}
-            className="bg-white text-gray-900 hover:bg-gray-100"
+            className="bg-black text-white hover:[bg-purple-100 text-purple]"
           >
             Get Started Now
           </Button>
